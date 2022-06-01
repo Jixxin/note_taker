@@ -1,7 +1,7 @@
-# E-Commerce_Back_End
+# Note_Taker
 
 ## Description
-The E-Commerce_Back_End is a simple program that showcases a crud application. 
+The Note_Taker is a simple program that allows the user to take notes and save the notes in a JSON database. The notes are then rendered onto the webpage. 
 
 ![Screenshot of Main Page](./public/assets/Photos/mainPage.PNG)
 ![Screenshot of Note Page](./public/assets/Photos/notePage.PNG)
